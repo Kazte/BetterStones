@@ -1,0 +1,10 @@
+## Interface: 110002
+## Title: BetterStones
+## Notes: Better Stones is a simple addon that adds a button to the minimap that allows you to quickly use your Hearthstone.
+## Author: Kazte
+## Version: v0.0.1
+## SavedVariables: BetterStonesDB
+
+Core.lua
+MinimapButton.lua
+Spells.lua
